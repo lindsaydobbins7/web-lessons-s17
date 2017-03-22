@@ -430,3 +430,32 @@ membership-yearly {
 	background-color: #434141;
 	
 }
+
+/* ------ [ Contact Form ] ----------- */
+
+#contact {
+	width: 100%;
+	padding: 100px 0;
+	background: #efefef;
+	float: left;
+}
+
+#contact h2 {
+	padding-bottom: 20px;
+}
+
+#contact p{
+	padding-top: 20px;
+}
+
+
+.contact-form img {
+	width: 460px;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.9em;
+	font-weight: 100;
+	color: #ffffff;
+}
+
+/* stoppped at ~
